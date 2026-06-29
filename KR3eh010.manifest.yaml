@@ -1,0 +1,279 @@
+canonical_identifier: bkk:krp/KR3eh010/v1
+canonical_location: https://kanripo.org/bkk/KR3eh010/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 內科摘要
+  identifiers:
+    krp: KR3eh010
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh010.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eh010_001.yaml, hash: 'sha256:4527f3ca907076260f32e5291f9d0e7898278b4b577314cb2317da3542eaac17'}
+  - {seq: 3, filename: KR3eh010_003.yaml, hash: 'sha256:70062421107ebf0ecb3d23308b97722bb496388a53b96d697956bd0ed7634948'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eh010_001.markers.yaml, hash: 'sha256:f5c6d0eb872460e300f978abdbecd0dc3e345544ffc5b6261b8b3568df52f1a3'}
+  - {seq: 3, role: markers, filename: assets/KR3eh010_003.markers.yaml, hash: 'sha256:08bec886ecb19dbfc396aad67bd940751a560db117b0543387922161718f63be'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 14747
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2074
+  label: 一元氣虧損內傷外感等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d3
+    span:
+    - body
+    - 2074
+    - 3755
+  label: 二飲食勞倦虧損元氣等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d4
+    span:
+    - body
+    - 3755
+    - 4458
+  label: 三脾胃虧損心腹作痛等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d5
+    span:
+    - body
+    - 4458
+    - 5173
+  label: 四脾腎虛寒陽氣脫陷等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d6
+    span:
+    - body
+    - 5173
+    - 6146
+  label: 五命門火衰不能生土等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d7
+    span:
+    - body
+    - 6146
+    - 7295
+  label: 六腎虛火不歸經發熱等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d8
+    span:
+    - body
+    - 7295
+    - 8644
+  label: 七脾胃虧損吞酸噯腐等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d9
+    span:
+    - body
+    - 8644
+    - 9426
+  label: 八脾腎虧損停食泄瀉等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d10
+    span:
+    - body
+    - 9426
+    - 10348
+  label: 九脾胃虧損停食痢疾等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d11
+    span:
+    - body
+    - 10348
+    - 11432
+  label: 十脾胃虧損瘧疾寒熱等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d12
+    span:
+    - body
+    - 11432
+    - 13482
+  label: 十一脾肺虧損咳嗽痰喘等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh010_jc_001-d2d13
+    span:
+    - body
+    - 13482
+    - 14747
+  label: 十二各症方藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 13497
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 756
+  label: 一脾腎虧損頭眩痰氣等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d3
+    span:
+    - body
+    - 756
+    - 1024
+  label: 二肝腎虧損血燥結核等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d4
+    span:
+    - body
+    - 1024
+    - 2311
+  label: 三脾腎虧損小便不利肚腹膨脹等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d5
+    span:
+    - body
+    - 2311
+    - 2730
+  label: 四脾胃虧損暑濕所傷等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d6
+    span:
+    - body
+    - 2730
+    - 3427
+  label: 五肝脾腎虧損頭目耳鼻等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d7
+    span:
+    - body
+    - 3427
+    - 4429
+  label: 六脾肺腎虧損小便自遺淋澀等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d8
+    span:
+    - body
+    - 4429
+    - 5174
+  label: 七脾肺腎虧損虛勞怯弱等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d9
+    span:
+    - body
+    - 5174
+    - 6206
+  label: 八脾肺腎虧損遺精吐血便血等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d10
+    span:
+    - body
+    - 6206
+    - 6490
+  label: 九肝脾腎虧損下部瘡腫等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d11
+    span:
+    - body
+    - 6490
+    - 7253
+  label: 十脾肺腎虧損大便秘結等症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh010_jc_003-d3d12
+    span:
+    - body
+    - 7253
+    - 13497
+  label: 十一各症方藥
+  type: section
+  level: 2
+hash: sha256:2ca2056b69ccb828379e77f5c9bad226456420af24e3083fc23cc9de403d6901
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
