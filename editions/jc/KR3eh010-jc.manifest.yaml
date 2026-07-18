@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3eh010_001-jc.yaml, hash: 'sha256:431d7bc08201e61bba7865ea3265f19bae976700aac88215bbb47c15e558e3d7'}
   - {seq: 3, filename: KR3eh010_003-jc.yaml, hash: 'sha256:553e42a5cb10f459cdfe6653161e0333eb6d0f4c152a6bec039dca637a3b1f71'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eh010_001-jc.markers.yaml, hash: 'sha256:903d84eae250762c0cc536be86207f23860ebb66ee35fb38d7bc52e8fad90480'}
-  - {seq: 3, role: markers, filename: assets/KR3eh010_003-jc.markers.yaml, hash: 'sha256:199360f9557afd6fe58a4a3ba3407af593d887cd681343fd784dd364aacaa2a5'}
+  - {seq: 1, role: markers, filename: assets/KR3eh010_001-jc.markers.yaml, hash: 'sha256:8cbe282247697ec46951984823c0dc48fc7253bef0d7822a5c6189d665861482'}
+  - {seq: 3, role: markers, filename: assets/KR3eh010_003-jc.markers.yaml, hash: 'sha256:e1f63a06122d9e17916a53473f65e63845ac4220879ca411e58a1c42647b5056'}
 table_of_contents:
 - ref:
     seq: 1
@@ -273,4 +273,4 @@ table_of_contents:
   label: 十一各症方藥
   type: section
   level: 2
-hash: sha256:fa580f18078f75d5b4a1e61b06426309cb7d428d133e8e03d157008dcb5e88b6
+hash: sha256:7e291593a3b815ac8e090c295c1bda86cd989e88e3e754dfc1af6cf9063c4733
